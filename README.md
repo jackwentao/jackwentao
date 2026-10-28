@@ -13,7 +13,8 @@
 <p align="center">
   <a href="https://github.com/jackwentao/blog">技术笔记</a> &nbsp; / &nbsp;
   <a href="https://blog.csdn.net/Yulovelwj">CSDN</a> &nbsp; / &nbsp;
-  <a href="https://github.com/jackwentao?tab=repositories">所有项目</a>
+  <a href="https://github.com/jackwentao/jackwentao/blob/main/PROJECTS.md">项目导航</a> &nbsp; / &nbsp;
+  <a href="https://github.com/jackwentao?tab=repositories">所有仓库</a>
 </p>
 
 <p align="center">
