@@ -8,6 +8,12 @@ Python · FastAPI · LangGraph · TypeScript · React · PostgreSQL · Docker
 
 ## 代表项目
 
+<p>
+<a href="https://github.com/jackwentao/Trusted-Memory"><img src="./assets/guide-trusted-memory.svg" width="100%" alt="Trusted-Memory · 长期记忆与写入治理，打开项目仓库"></a><br>
+<a href="https://github.com/jackwentao/Agentic-ChemRAG"><img src="./assets/guide-agentic-chemrag.svg" width="100%" alt="Agentic-ChemRAG · 科研文献检索与原页取证，打开项目仓库"></a><br>
+<a href="https://github.com/jackwentao/VoiceCanvas"><img src="./assets/guide-voicecanvas.svg" width="100%" alt="VoiceCanvas · 语音分镜与画布编辑，打开项目仓库"></a>
+</p>
+
 ### Trusted-Memory · Agent 长期记忆安全与治理系统
 
 具备双时间戳冲突消解与写入安全防火墙（PII脱敏与投毒拦截）的 Agent 长期记忆系统。在写入前对 PII 敏感信息与恶意注入进行拦截，基于双时间戳记录 `event_time` 和 `ingest_time` 解决记忆冲突，并引入时间衰减公式实现高可靠的历史溯源与检索。

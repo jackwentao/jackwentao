@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 348">
+<a href="https://github.com/jackwentao/Trusted-Memory" aria-label="Trusted-Memory"><g transform="translate(0 0)"><rect width="720" height="116" fill="#f7f4ea"/>
+<path d="M22 115.5h676" stroke="#d5d1c4"/>
+<circle cx="64" cy="58" r="39" fill="#95c3ae"/>
+<g transform="translate(20 13) scale(.89)" stroke="#283936" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="m18 38 32-14 32 14-32 14z M18 49l32 14 32-14 M18 60l32 14 32-14"/></g>
+<g font-family="Inter, Arial, sans-serif" fill="#243630">
+  <text x="128" y="57" font-size="36" font-weight="700">Trusted-Memory</text>
+  <text x="130" y="88" font-size="22" fill="#485851">长期记忆与写入治理</text>
+</g>
+<g transform="translate(655 57)" fill="none" stroke="#42564c" stroke-width="2"><circle r="18"/><path d="m-6 6 12-12 M-5-6H6V5"/></g></g></a>
+<a href="https://github.com/jackwentao/Agentic-ChemRAG" aria-label="Agentic-ChemRAG"><g transform="translate(0 116)"><rect width="720" height="116" fill="#f7f4ea"/>
+<path d="M22 115.5h676" stroke="#d5d1c4"/>
+<circle cx="64" cy="58" r="39" fill="#e2b379"/>
+<g transform="translate(20 13) scale(.89)" stroke="#283936" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M24 20h41l10 10v47H24z M65 20v12h10 M33 42h31 M33 51h18"/><circle cx="60" cy="62" r="10"/><path d="m68 70 10 10"/></g>
+<g font-family="Inter, Arial, sans-serif" fill="#243630">
+  <text x="128" y="57" font-size="36" font-weight="700">Agentic-ChemRAG</text>
+  <text x="130" y="88" font-size="22" fill="#485851">科研文献检索与原页取证</text>
+</g>
+<g transform="translate(655 57)" fill="none" stroke="#42564c" stroke-width="2"><circle r="18"/><path d="m-6 6 12-12 M-5-6H6V5"/></g></g></a>
+<a href="https://github.com/jackwentao/VoiceCanvas" aria-label="VoiceCanvas"><g transform="translate(0 232)"><rect width="720" height="116" fill="#f7f4ea"/>
+<path d="M22 115.5h676" stroke="#d5d1c4"/>
+<circle cx="64" cy="58" r="39" fill="#a7b9d7"/>
+<g transform="translate(20 13) scale(.89)" stroke="#283936" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><rect x="15" y="26" width="68" height="48" rx="5"/><path d="M15 36h68 M33 49v10 M40 44v21 M47 49v10 M57 48l13 7-13 7z"/></g>
+<g font-family="Inter, Arial, sans-serif" fill="#243630">
+  <text x="128" y="57" font-size="36" font-weight="700">VoiceCanvas</text>
+  <text x="130" y="88" font-size="22" fill="#485851">语音分镜与画布编辑</text>
+</g>
+<g transform="translate(655 57)" fill="none" stroke="#42564c" stroke-width="2"><circle r="18"/><path d="m-6 6 12-12 M-5-6H6V5"/></g></g></a>
+</svg>

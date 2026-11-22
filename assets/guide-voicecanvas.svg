@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 116">
+<rect width="720" height="116" fill="#f7f4ea"/>
+<path d="M22 115.5h676" stroke="#d5d1c4"/>
+<circle cx="64" cy="58" r="39" fill="#a7b9d7"/>
+<g transform="translate(20 13) scale(.89)" stroke="#283936" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><rect x="15" y="26" width="68" height="48" rx="5"/><path d="M15 36h68 M33 49v10 M40 44v21 M47 49v10 M57 48l13 7-13 7z"/></g>
+<g font-family="Inter, Arial, sans-serif" fill="#243630">
+  <text x="128" y="57" font-size="36" font-weight="700">VoiceCanvas</text>
+  <text x="130" y="88" font-size="22" fill="#485851">语音分镜与画布编辑</text>
+</g>
+<g transform="translate(655 57)" fill="none" stroke="#42564c" stroke-width="2"><circle r="18"/><path d="m-6 6 12-12 M-5-6H6V5"/></g>
+</svg>
