@@ -1,41 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="250" viewBox="0 0 320 250" role="img">
-<title>两张带日期的居住地记录</title>
-<defs>
-<pattern id="grain" width="13" height="17" patternUnits="userSpaceOnUse">
-<circle cx="2" cy="3" r=".55" fill="#b3a78e" opacity=".38"/>
-<circle cx="10" cy="13" r=".4" fill="#9d927b" opacity=".3"/>
-</pattern>
-</defs>
-<rect width="320" height="250" rx="5" fill="#fbf8ee"/>
-<rect width="320" height="250" fill="url(#grain)"/>
-<g transform="translate(-6 6) scale(1.28)" stroke="#43463e" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
-<g transform="translate(39 32) rotate(-8)">
-<path d="M1 1Q66 -1 132 0l1 70-133 2Z" fill="#fffdf5" />
-<path d="M2 24l129 -1M4 53l125 1" fill="none" stroke="#c3c5b6" stroke-width=".9"/>
-<text x="11" y="18" font-family="monospace" font-size="12" fill="#34679a" stroke="none" >06 / 01</text>
-<text x="11" y="48" font-family="Georgia, serif" font-size="21" fill="#383b36" stroke="none" >Shanghai</text>
-</g>
-<g transform="translate(85 86) rotate(6)">
-<path d="M1 1Q66 -1 132 0l1 70-133 2Z" fill="#fffdf5" />
-<path d="M2 24l129 -1M4 53l125 1" fill="none" stroke="#c3c5b6" stroke-width=".9"/>
-<text x="11" y="18" font-family="monospace" font-size="12" fill="#34679a" stroke="none" >09 / 18</text>
-<text x="11" y="48" font-family="Georgia, serif" font-size="21" fill="#383b36" stroke="none" >Hangzhou</text>
-</g>
-<path d="M46 76C14 102 40 126 74 121m-8 -6 9 6-7 7" fill="none" stroke="#34679a" stroke-width="2.2"/>
-<path d="M93 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M98 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M103 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M108 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M113 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M118 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M123 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M128 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M133 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M138 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M143 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M148 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M153 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M158 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-<path d="M163 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="250" viewBox="0 0 320 250" role="img" font-family="'Segoe Print', 'Comic Sans MS', 'PingFang SC', sans-serif" fill="#2D2D2D">
+  <defs>
+    <filter id="ink" filterUnits="userSpaceOnUse" x="-5" y="-5" width="330" height="260">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" />
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="319" height="249" rx="14" fill="#FAF7F0" stroke="#E5DFD3" stroke-width="1" />
+  <title>两张带日期的居住地记录</title>
+  <g transform="translate(-6 6) scale(1.28)" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+    <g transform="translate(39 32) rotate(-8)">
+      <path d="M1 1Q66 -1 132 0l1 70-133 2Z" fill="#FAF7F0" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+      <path d="M2 24l129 -1M4 53l125 1" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+      <text x="11" y="18" font-size="12" fill="#2D2D2D" stroke="none">06 / 01</text>
+      <text x="11" y="48" font-size="21" fill="#2D2D2D" stroke="none">Shanghai</text>
+    </g>
+    <g transform="translate(85 86) rotate(6)">
+      <path d="M1 1Q66 -1 132 0l1 70-133 2Z" fill="#FAF7F0" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+      <path d="M2 24l129 -1M4 53l125 1" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+      <text x="11" y="18" font-size="12" fill="#2D2D2D" stroke="none">09 / 18</text>
+      <text x="11" y="48" font-size="21" fill="#2D2D2D" stroke="none">Hangzhou</text>
+    </g>
+    <path d="M46 76C14 102 40 126 74 121m-8 -6 9 6-7 7" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M93 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M98 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M103 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M108 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M113 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M118 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M123 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M128 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M133 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M138 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M143 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M148 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M153 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M158 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+    <path d="M163 161l-5 5" fill="none" stroke="#2D2D2D" stroke-width="2" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+  </g>
 </svg>

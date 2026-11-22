@@ -1,8 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 744 154">
-<rect width="744" height="154" fill="#fcf9f1"/>
-<path d="M26 1H718" fill="none" stroke="#c4c4b9" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="27" y="83" font-family="Baskervville, Georgia, serif" font-size="49" letter-spacing="-1.8" fill="#303b35">Agentic-ChemRAG</text>
-<text x="30" y="118" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#596159">科研文献检索与原页取证</text>
-<path d="M571 49l86 -14 20 79 -86 16z" fill="#fcf9f1" stroke="#303b35" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/><path d="M580 43l86 -14 20 79 -86 16z" fill="#fcf9f1" stroke="#303b35" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/><path d="M589 37l86 -14 20 79 -86 16z" fill="#fcf9f1" stroke="#303b35" stroke-width="1.25" stroke-linejoin="round" stroke-linecap="round"/><path d="M604 49l53 -9 M606 54l38 -6 M614 91l52 -9 M616 96l41 -7" fill="none" stroke="#82867a" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/><path d="M609 79l10 -2 4 -6 5 6 6 -20 6 17 6 -5 5 1 9 -2" fill="none" stroke="#ac5137" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M707 22l9 -9m-9 0h9v9" fill="none" stroke="#ac5137" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 744 154" font-family="'Segoe Print', 'Comic Sans MS', 'PingFang SC', sans-serif" fill="#2D2D2D">
+  <defs>
+    <filter id="ink" filterUnits="userSpaceOnUse" x="-5" y="-5" width="754" height="164">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" result="noise" />
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" />
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="743" height="153" rx="14" fill="#FAF7F0" stroke="#E5DFD3" stroke-width="1" />
+  <path d="M26 1H718" fill="none" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+  <text x="27" y="83" font-size="49" letter-spacing="-1.8" fill="#2D2D2D" stroke="none">Agentic-ChemRAG</text>
+  <text x="30" y="118" font-size="22" fill="#2D2D2D" stroke="none">科研文献检索与原页取证</text>
+  <path d="M571 49l86 -14 20 79 -86 16z" fill="#FAF7F0" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+  <path d="M580 43l86 -14 20 79 -86 16z" fill="#FAF7F0" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+  <path d="M589 37l86 -14 20 79 -86 16z" fill="#FAF7F0" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+  <path d="M604 49l53 -9 M606 54l38 -6 M614 91l52 -9 M616 96l41 -7" fill="none" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+  <path d="M609 79l10 -2 4 -6 5 6 6 -20 6 17 6 -5 5 1 9 -2" fill="none" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)" vector-effect="non-scaling-stroke" />
+  <path d="M707 22l9 -9m-9 0h9v9" fill="none" stroke="#2D2D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)" vector-effect="non-scaling-stroke" />
 </svg>
