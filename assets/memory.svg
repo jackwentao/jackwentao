@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="214" viewBox="0 0 260 214" role="img">
+<title>两张带日期的居住地记录</title>
+<defs>
+<pattern id="grain" width="13" height="17" patternUnits="userSpaceOnUse">
+<circle cx="2" cy="3" r=".55" fill="#b3a78e" opacity=".38"/>
+<circle cx="10" cy="13" r=".4" fill="#9d927b" opacity=".3"/>
+</pattern>
+</defs>
+<rect width="260" height="214" rx="5" fill="#fbf8ee"/>
+<rect width="260" height="214" fill="url(#grain)"/>
+<g stroke="#43463e" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+<g transform="translate(39 32) rotate(-8)">
+<path d="M1 1Q66 -1 132 0l1 70-133 2Z" fill="#fffdf5" />
+<path d="M2 24l129 -1M4 53l125 1" fill="none" stroke="#c3c5b6" stroke-width=".9"/>
+<text x="11" y="18" font-family="monospace" font-size="12" fill="#34679a" stroke="none" >06 / 01</text>
+<text x="11" y="48" font-family="Georgia, serif" font-size="21" fill="#383b36" stroke="none" >Shanghai</text>
+</g>
+<g transform="translate(85 86) rotate(6)">
+<path d="M1 1Q66 -1 132 0l1 70-133 2Z" fill="#fffdf5" />
+<path d="M2 24l129 -1M4 53l125 1" fill="none" stroke="#c3c5b6" stroke-width=".9"/>
+<text x="11" y="18" font-family="monospace" font-size="12" fill="#34679a" stroke="none" >09 / 18</text>
+<text x="11" y="48" font-family="Georgia, serif" font-size="21" fill="#383b36" stroke="none" >Hangzhou</text>
+</g>
+<path d="M46 76C14 102 40 126 74 121m-8 -6 9 6-7 7" fill="none" stroke="#34679a" stroke-width="2.2"/>
+<path d="M93 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M98 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M103 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M108 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M113 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M118 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M123 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M128 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M133 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M138 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M143 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M148 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M153 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M158 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M163 161l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+</g>
+<text x="130" y="201" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#343b39">Trusted-Memory</text></svg>

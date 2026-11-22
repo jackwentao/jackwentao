@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="214" viewBox="0 0 260 214" role="img">
+<title>论文图注与页码批注</title>
+<defs>
+<pattern id="grain" width="13" height="17" patternUnits="userSpaceOnUse">
+<circle cx="2" cy="3" r=".55" fill="#b3a78e" opacity=".38"/>
+<circle cx="10" cy="13" r=".4" fill="#9d927b" opacity=".3"/>
+</pattern>
+</defs>
+<rect width="260" height="214" rx="5" fill="#fbf8ee"/>
+<rect width="260" height="214" fill="url(#grain)"/>
+<g stroke="#43463e" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+<g transform="translate(44 20) rotate(-6 74 60)">
+<path d="M4 5l119 1 17 21-2 125-136 -2Z" fill="#e3dfd0" />
+<path d="M0 0q62 1 119 -1l17 22-1 126-137 -1Z" fill="#fffdf6" />
+<path d="M119 0l-1 22 17 -1" fill="#e8e3d5" />
+<text x="12" y="20" font-family="Georgia, serif" font-size="14" fill="#383b36" stroke="none" >Materials</text>
+<path d="M13 27l84 1m-85 6 108 1m-108 5 95 1" fill="none" stroke="#97988b" stroke-width="1"/>
+<path d="M17 49l-1 37 94 1M20 82l17 -6 13 2 16 -19 13 4 17 -12 11 -1" fill="none" />
+<path d="M59 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M64 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M69 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M74 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M79 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M84 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M89 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M94 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<path d="M99 81l-5 5" fill="none" stroke="#a59f8d" stroke-width=".8"/>
+<text x="12" y="106" font-family="Georgia, serif" font-size="14" fill="#383b36" stroke="none" >Fig. 2</text>
+<path d="M53 99l62 1m-62 5 51 1M12 116l105 1m-104 5 89 1" fill="none" stroke="#96978c" stroke-width="1"/>
+<path d="M48 95c-15 -6-42 -4-43 6-1 13 47 15 48 2 1 -5-6 -9-14 -10" fill="none" stroke="#34679a" stroke-width="2.2"/>
+</g>
+<path d="M94 119c48 25 74 20 97 -4m-8 2 9 -4-1 9" fill="none" stroke="#34679a" stroke-width="2.2"/>
+<text x="179" y="106" font-family="Georgia, serif" font-size="15" fill="#34679a" stroke="none" font-style="italic">p. 08</text>
+</g>
+<text x="130" y="201" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#343b39">Agentic-ChemRAG</text></svg>
