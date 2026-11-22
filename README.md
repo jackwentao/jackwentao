@@ -1,17 +1,25 @@
-<a href="https://github.com/jackwentao/Trusted-Memory"><img src="./assets/memory.svg" width="240" alt="Trusted-Memory · 两张带日期的居住地记录"></a>
-<a href="https://github.com/jackwentao/Agentic-ChemRAG"><img src="./assets/citation.svg" width="240" alt="Agentic-ChemRAG · 论文图注与页码批注"></a>
-<a href="https://github.com/jackwentao/VoiceCanvas"><img src="./assets/storyboard.svg" width="240" alt="VoiceCanvas · 雨窗与咖啡杯的双镜头分镜"></a>
+## 项目手记
 
-### [Trusted-Memory](https://github.com/jackwentao/Trusted-Memory) · Agent 长期记忆
+<a href="https://github.com/jackwentao/Trusted-Memory"><img align="right" width="116" src="./assets/memory.svg" alt="六月的上海记录和九月的杭州记录"></a>
 
-同一个人的居住地可能随时间变化。项目区分事件发生时间和记忆写入时间，探索如何检索当前状态、保留历史版本，并追溯冲突记录。开发中。
+### [Trusted-Memory](https://github.com/jackwentao/Trusted-Memory)
 
-### [Agentic-ChemRAG](https://github.com/jackwentao/Agentic-ChemRAG) · 材料文献问答
+**Agent 长期记忆** · 区分事件发生和记忆写入的时间，追踪同一条事实如何随时间更新。开发中。
 
-从论文正文和图注检索证据，将回答定位到 PDF 原页。离线评测中，文档 Recall@k 为 87.5%，引用页命中率为 91.7%。[架构设计](https://github.com/jackwentao/Agentic-ChemRAG/blob/main/docs/ARCHITECTURE.md) · [评测报告](https://github.com/jackwentao/Agentic-ChemRAG/tree/main/docs/reports)
+<br clear="all">
 
-### [VoiceCanvas](https://github.com/jackwentao/VoiceCanvas) · 语音分镜创作
+<a href="https://github.com/jackwentao/Agentic-ChemRAG"><img align="right" width="116" src="./assets/citation.svg" alt="从回答回到论文图注"></a>
 
-用一句话生成多镜头分镜，选中单个镜头修改字幕或画面，再导出 PNG 或 SVG。[观看「雨天咖啡」演示](https://raw.githubusercontent.com/jackwentao/VoiceCanvas/main/docs/demo/voicecanvas-demo.mp4)
+### [Agentic-ChemRAG](https://github.com/jackwentao/Agentic-ChemRAG)
 
-[![VoiceCanvas「雨天咖啡」分镜工作区](https://raw.githubusercontent.com/jackwentao/VoiceCanvas/main/docs/screenshots/demo-workspace.webp)](https://raw.githubusercontent.com/jackwentao/VoiceCanvas/main/docs/demo/voicecanvas-demo.mp4)
+**材料文献问答** · 从正文和图注检索证据，把回答定位到 PDF 原页。离线评测引用页命中率 91.7%。[评测报告](https://github.com/jackwentao/Agentic-ChemRAG/tree/main/docs/reports)
+
+<br clear="all">
+
+<a href="https://github.com/jackwentao/VoiceCanvas"><img align="right" width="116" src="./assets/storyboard.svg" alt="雨窗和咖啡杯的双镜头分镜"></a>
+
+### [VoiceCanvas](https://github.com/jackwentao/VoiceCanvas)
+
+**语音分镜创作** · 说一句话生成分镜，逐镜修改画面和字幕，再导出成图。[观看「雨天咖啡」演示](https://raw.githubusercontent.com/jackwentao/VoiceCanvas/main/docs/demo/voicecanvas-demo.mp4)
+
+<br clear="all">
