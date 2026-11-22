@@ -8,22 +8,17 @@
 
 | 项目 | 做什么 | 技术与入口 |
 | --- | --- | --- |
-| [Agentic-ChemRAG-v1](https://github.com/jackwentao/Agentic-ChemRAG-v1) | 上传文献、后台索引、范围问答与页码引用 | Python、FastAPI、LangGraph、pgvector、Celery、React |
+| [Trusted-Memory](https://github.com/jackwentao/Trusted-Memory) | Agent 长期记忆与时序冲突处理（开发中） | 架构与评测待发布 |
+| [Agentic-ChemRAG](https://github.com/jackwentao/Agentic-ChemRAG) | 上传文献、后台索引、范围问答与页码引用 | Python、FastAPI、LangGraph、pgvector、Celery、React |
 | [VoiceCanvas](https://github.com/jackwentao/VoiceCanvas) | 通过语音创建、编辑和导出分镜草图 | Python、FastAPI、LangGraph、Canvas；支持本地 Demo |
 | [企业微信招聘 AI 助手](https://github.com/jackwentao/wecom-recruitment-ai-demo) | 消息与简历抽取、候选人看板和 Excel 导出 | TypeScript、Express、React；默认 JSON 演示 |
 | [Git Weekly Insight](https://github.com/jackwentao/Git-Weekly-Insight) | 从本地 Git 提交与笔记生成 Markdown 周报 | TypeScript、CLI、Next.js、DeepSeek；支持无密钥预演 |
 
 各项目的配置、快速开始、测试命令与能力边界见对应 README。
 
-## ChemRAG 实现路线
+## 编排实验
 
-三个仓库使用独立源码与数据配置，分别记录原型、应用和架构实验：
-
-| 仓库 | 定位 | 适合看什么 |
-| --- | --- | --- |
-| [Agentic-ChemRAG](https://github.com/jackwentao/Agentic-ChemRAG) | 本地 PDF + ChromaDB 原型 | PDF 解析、向量构建、流式问答 |
-| [Agentic-ChemRAG-v1](https://github.com/jackwentao/Agentic-ChemRAG-v1) | 文献问答应用 | 上传、异步索引、存储、检索与引用 |
-| [Multi_Agent_ChemRAG](https://github.com/jackwentao/Multi_Agent_ChemRAG) | 模块化后端与编排实验 | contracts、共享仓储、导入队列；Agent 业务节点仍在完善 |
+[Multi_Agent_ChemRAG](https://github.com/jackwentao/Multi_Agent_ChemRAG) 探索模块化后端、异步导入与 Agent 工作流。
 
 ## 写作与学习
 
