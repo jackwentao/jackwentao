@@ -1,8 +1,6 @@
 <p align="center"><picture><source media="(max-width: 600px)" srcset="./assets/notes-hero-mobile.svg"><img src="./assets/notes-hero.svg" width="100%" alt="Hey, I'm Wentao."></picture></p>
 
-## 于文涛 · Wentao Yu ｜ AI 应用开发 · Agent 工程化
-
-材料科学与工程硕士在读（2027 届）。切入 AI 工程化的起点，源于科研文献阅读中的一个真实痛点：*当大模型给出一个材料合成或性能结论时，我必须知道证据究竟落在原文哪一页、哪一张图注里。*
+**AI 应用开发 · Agent 工程化** ｜ 材料科学与工程硕士在读（2027 届）。切入 AI 工程化的起点，源于科研文献阅读中的一个真实痛点：*当大模型给出一个材料合成或性能结论时，我必须知道证据究竟落在原文哪一页、哪一张图注里。*
 
 <p align="center"><picture><source media="(max-width: 600px)" srcset="./assets/notes-tools-mobile.svg"><img src="./assets/notes-tools.svg" width="100%" alt="Python / FastAPI / LangGraph / TypeScript / React / PostgreSQL / Docker"></picture></p>
 
@@ -10,7 +8,7 @@
 
 <table width="100%" border="0">
   <tr>
-    <td width="260" align="center" valign="top"><img src="./assets/memory.svg" width="240" alt="Trusted-Memory 手绘卡片"></td>
+    <td width="340" align="center" valign="middle"><img src="./assets/memory.svg" width="320" alt="Trusted-Memory 手绘卡片"></td>
     <td valign="top">
       <h3><a href="https://github.com/jackwentao/Trusted-Memory">Trusted-Memory</a> — Agent 长期记忆安全与治理系统</h3>
       <p>面向生产级多轮对话 Agent 的高可信记忆中台，解决动态事实冲突、时间衰减与恶意注入难题。</p>
@@ -22,7 +20,7 @@
     </td>
   </tr>
   <tr>
-    <td width="260" align="center" valign="top"><img src="./assets/notes-chemrag-mobile.svg" width="240" alt="Agentic-ChemRAG 手绘插画"></td>
+    <td width="340" align="center" valign="middle"><img src="./assets/notes-chemrag-mobile.svg" width="320" alt="Agentic-ChemRAG 手绘插画"></td>
     <td valign="top">
       <h3><a href="https://github.com/jackwentao/Agentic-ChemRAG">Agentic-ChemRAG</a> — 面向化学与材料文献的可溯源 RAG 工作台</h3>
       <p>解决科研文献“多栏排版复杂、图表密度高、回答无法核对原页”的端到端智能检索工作台。</p>
@@ -34,7 +32,7 @@
     </td>
   </tr>
   <tr>
-    <td width="260" align="center" valign="top"><img src="./assets/notes-voicecanvas-mobile.svg" width="240" alt="VoiceCanvas 手绘插画"></td>
+    <td width="340" align="center" valign="middle"><img src="./assets/notes-voicecanvas-mobile.svg" width="320" alt="VoiceCanvas 手绘插画"></td>
     <td valign="top">
       <h3><a href="https://github.com/jackwentao/VoiceCanvas">VoiceCanvas</a> — 全双工语音驱动的智能生图与分镜画布</h3>
       <p>让自然语言指令直接转化为可编辑多镜头分镜的交互式创作工作台。</p>
